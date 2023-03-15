@@ -56,7 +56,7 @@ OVERLAP = 4
 
 ################################################################################
 #
-# Test Data
+# Test Datapip
 
 def bwalk(min, max, std):
     """ Generates a bounded random walk. """
